@@ -1,0 +1,12 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+.pytest_cache/
+.DS_Store
+
+# Notebook-generated local outputs
+data/
+artifacts/
+
+# Original download bundle; its notebook is duplicated at the repository root
+Roblox_ML_Titanic_Workbook_Package/

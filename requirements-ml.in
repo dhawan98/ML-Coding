@@ -1,0 +1,28 @@
+# Core numerical and tabular work
+numpy
+pandas
+scipy
+
+# Classic machine learning
+scikit-learn
+statsmodels
+xgboost
+imbalanced-learn
+joblib
+
+# Visualization
+matplotlib
+seaborn
+
+# Notebook experience
+jupyterlab
+notebook
+ipykernel
+ipywidgets
+
+# Common data formats
+openpyxl
+pyarrow
+
+# Lightweight practice/test tooling
+pytest
